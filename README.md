@@ -1,2 +1,4 @@
 # zabbix_codis
 通过zabbix监控codis
+
+proxy使用supervisor守护，监控supervisor守护服务状态即可
